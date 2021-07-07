@@ -1,2 +1,6 @@
-# recriando-pagina-inicial-instagram
- Um projeto onde criamos a página inicial do Instagram abordando conceitos CSS utilizando layout flexbox
+# Recriando a página inicial do Instagram
+* ###### Meus **contatos**
+
+  * meu instagram: [@talysonxx](https://instagram.com/talysonxx)
+  * meu email: talysonoficial12@gmail.com
+  * meu linkedIn:  [Talyson André](https://www.linkedin.com/in/talyson-andré-101897170/)
