@@ -8,6 +8,6 @@
 
   * meu instagram: [@talysonxx](https://instagram.com/talysonxx)
   * meu email: talysonoficial12@gmail.com
-  * meu linkedIn:  [Talyson André](https://www.linkedin.com/in/talyson-andré-101897170/)
+  * meu linkedIn:  [Talyson André](https://www.linkedin.com/in/talyson-andre-101897170/)
 
 ![pic-1](https://user-images.githubusercontent.com/79946114/125330966-c5fa3d00-e31d-11eb-86cd-63e5869e090a.png)
